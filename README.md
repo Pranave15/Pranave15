@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>👋 Hi, I'm Pranave K.C<br>🚀 Aspiring AI Engineer | 🤖 Passionate About Reinforcement Learning, Machine Learning, and Deep Learning<br>💡 Always eager to learn, build, and innovate in the world of AI.<br>🤝 Open to collaborations on exciting AI projects.<br>📚 Constantly exploring new technologies to push boundaries. 
-🔗Connect with me through email pranavekc1504@gmail.com
+<br>🔗Connect with me through email pranavekc1504@gmail.com
 
 
 ## 🌐 Socials:
